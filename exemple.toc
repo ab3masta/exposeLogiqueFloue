@@ -1,0 +1,8 @@
+\babel@toc {english}{}
+\babel@toc {french}{}
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Différences entre la logique floue et logique classique}{5}{0}{2}
+\beamer@sectionintoc {3}{Le fonctionnement d’un système flou}{6}{0}{3}
+\beamer@sectionintoc {4}{Les domaines d’application de la logique floue}{7}{0}{4}
+\beamer@sectionintoc {5}{Les avantages et inconvénient de la logique floue}{8}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{9}{0}{6}
