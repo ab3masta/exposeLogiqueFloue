@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.23)  12 JAN 2021 17:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.23)  13 JAN 2021 15:52
 entering extended mode
 **d:/Master2/S1/SFLP/Expose/exemple.tex
 (d:/Master2/S1/SFLP/Expose/exemple.tex
@@ -772,10 +772,27 @@ Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
 \RaggedLeftParindent=\skip80
 \RaggedRightParindent=\skip81
 \JustifyingParindent=\skip82
+) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/textpos\textpos.sty
+Package: textpos 2020/09/26 v1.10
+
+Package: textpos 2020/09/26 1.10, absolute positioning of text on the page
+Package textpos Info: choosing support for LaTeX3 on input line 61.
+\TP@textbox=\box120
+\TP@holdbox=\box121
+\TPHorizModule=\dimen305
+\TPVertModule=\dimen306
+\TP@margin=\dimen307
+\TP@absmargin=\dimen308
+Grid set 16 x 16 = 28.45274pt x 16.00467pt
+\TPboxrulesize=\dimen309
+\TP@ox=\dimen310
+\TP@oy=\dimen311
+\TP@tbargs=\toks46
+TextBlockOrigin set to 0pt x 0pt
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks46
-\inpenc@posthook=\toks47
+\inpenc@prehook=\toks47
+\inpenc@posthook=\toks48
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/tools\varioref.sty
 Package: varioref 2020/01/23 v1.6c package for extended references (FMi)
 \c@vrcnt=\count340
@@ -787,22 +804,22 @@ LaTeX Info: Redefining \cite on input line 694.
 \c@NAT@ctr=\count341
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count342
-\lst@gtempboxa=\box120
-\lst@token=\toks48
+\lst@gtempboxa=\box122
+\lst@token=\toks49
 \lst@length=\count343
-\lst@currlwidth=\dimen305
+\lst@currlwidth=\dimen312
 \lst@column=\count344
 \lst@pos=\count345
-\lst@lostspace=\dimen306
-\lst@width=\dimen307
+\lst@lostspace=\dimen313
+\lst@width=\dimen314
 \lst@newlines=\count346
 \lst@lineno=\count347
-\lst@maxwidth=\dimen308
+\lst@maxwidth=\dimen315
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count348
 \lst@skipnumbers=\count349
-\lst@framebox=\box121
+\lst@framebox=\box123
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
@@ -811,21 +828,21 @@ Package: listings 2020/03/24 1.8d (Carsten Heinz)
 \@mpm@count=\count350
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
 Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
-\epsfxsize=\dimen309
-\epsfysize=\dimen310
+\epsfxsize=\dimen316
+\epsfysize=\dimen317
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
-\captionmargin=\dimen311
-\captionmargin@=\dimen312
-\captionwidth=\dimen313
-\caption@tempdima=\dimen314
-\caption@indent=\dimen315
-\caption@parindent=\dimen316
-\caption@hangindent=\dimen317
+\captionmargin=\dimen318
+\captionmargin@=\dimen319
+\captionwidth=\dimen320
+\caption@tempdima=\dimen321
+\caption@indent=\dimen322
+\caption@parindent=\dimen323
+\caption@hangindent=\dimen324
 Package caption Info: beamer document class detected.
 Package caption Info: french babel package is loaded.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-beamer.sto
@@ -842,64 +859,64 @@ Package caption Info: listings package is loaded.
 \c@subtable=\count354
 ) (d:/Master2\S1\SFLP\Expose\ru.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemesplit.sty) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemewhale.sty) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerinnerthemerounded.sty) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemeorchid.sty) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamercolorthemestructure.sty)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
-\heavyrulewidth=\dimen318
-\lightrulewidth=\dimen319
-\cmidrulewidth=\dimen320
-\belowrulesep=\dimen321
-\belowbottomsep=\dimen322
-\aboverulesep=\dimen323
-\abovetopsep=\dimen324
-\cmidrulesep=\dimen325
-\cmidrulekern=\dimen326
-\defaultaddspace=\dimen327
+\heavyrulewidth=\dimen325
+\lightrulewidth=\dimen326
+\cmidrulewidth=\dimen327
+\belowrulesep=\dimen328
+\belowbottomsep=\dimen329
+\aboverulesep=\dimen330
+\abovetopsep=\dimen331
+\cmidrulesep=\dimen332
+\cmidrulekern=\dimen333
+\defaultaddspace=\dimen334
 \@cmidla=\count355
 \@cmidlb=\count356
-\@aboverulesep=\dimen328
-\@belowrulesep=\dimen329
+\@aboverulesep=\dimen335
+\@belowrulesep=\dimen336
 \@thisruleclass=\count357
 \@lastruleclass=\count358
-\@thisrulewidth=\dimen330
+\@thisrulewidth=\dimen337
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgfplots\pgfplots.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.revision.tex)
 Package: pgfplots 2020/02/29 v1.17 Data Visualization (1.17)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
 Package: pgf 2020/12/01 v3.1.7a (3.1.7a)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2020/12/01 v3.1.7a (3.1.7a)
-\pgfnodeparttextbox=\box122
+\pgfnodeparttextbox=\box124
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2020/12/01 v3.1.7a (3.1.7a)
-\pgf@nodesepstart=\dimen331
-\pgf@nodesepend=\dimen332
+\pgf@nodesepstart=\dimen338
+\pgf@nodesepend=\dimen339
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2020/12/01 v3.1.7a (3.1.7a)
 )) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.code.tex
 Package: pgffor 2020/12/01 v3.1.7a (3.1.7a)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex)
-\pgffor@iter=\dimen333
-\pgffor@skip=\dimen334
-\pgffor@stack=\toks49
-\pgffor@toks=\toks50
+\pgffor@iter=\dimen340
+\pgffor@skip=\dimen341
+\pgffor@stack=\toks50
+\pgffor@toks=\toks51
 )) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz\tikz.code.tex
 Package: tikz 2020/12/01 v3.1.7a (3.1.7a)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 \pgf@plot@mark@count=\count359
-\pgfplotmarksize=\dimen335
+\pgfplotmarksize=\dimen342
 )
-\tikz@lastx=\dimen336
-\tikz@lasty=\dimen337
-\tikz@lastxsaved=\dimen338
-\tikz@lastysaved=\dimen339
-\tikz@lastmovetox=\dimen340
-\tikz@lastmovetoy=\dimen341
-\tikzleveldistance=\dimen342
-\tikzsiblingdistance=\dimen343
-\tikz@figbox=\box123
-\tikz@figbox@bg=\box124
-\tikz@tempbox=\box125
-\tikz@tempbox@bg=\box126
+\tikz@lastx=\dimen343
+\tikz@lasty=\dimen344
+\tikz@lastxsaved=\dimen345
+\tikz@lastysaved=\dimen346
+\tikz@lastmovetox=\dimen347
+\tikz@lastmovetoy=\dimen348
+\tikzleveldistance=\dimen349
+\tikzsiblingdistance=\dimen350
+\tikz@figbox=\box125
+\tikz@figbox@bg=\box126
+\tikz@tempbox=\box127
+\tikz@tempbox@bg=\box128
 \tikztreelevel=\count360
 \tikznumberofchildren=\count361
 \tikznumberofcurrentchild=\count362
@@ -914,38 +931,38 @@ File: pgfmodulematrix.code.tex 2020/12/01 v3.1.7a (3.1.7a)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ))) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscore.code.tex
-\t@pgfplots@toka=\toks51
-\t@pgfplots@tokb=\toks52
-\t@pgfplots@tokc=\toks53
-\pgfplots@tmpa=\dimen344
+\t@pgfplots@toka=\toks52
+\t@pgfplots@tokb=\toks53
+\t@pgfplots@tokc=\toks54
+\pgfplots@tmpa=\dimen351
 \c@pgfplots@coordindex=\count368
 \c@pgfplots@scanlineindex=\count369
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgfplotssysgeneric.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgfplotslibrary.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/oldpgfcompatib\pgfplotsoldpgfsupp_loader.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryfpu.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructure.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsliststructureext.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsarray.code.tex
 \c@pgfplotsarray@tmp=\count370
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsmatrix.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/numtable\pgfplotstableshared.code.tex
 \c@pgfplotstable@counta=\count371
-\t@pgfplotstable@a=\toks54
+\t@pgfplotstable@a=\toks55
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/liststructure\pgfplotsdeque.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsbinary.data.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotsutil.verb.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/libs\pgflibrarypgfplots.surfshading.code.tex
 \c@pgfplotslibrarysurf@no=\count372
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/sys\pgflibrarypgfplots.surfshading.pgfsys-pdftex.def))) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolormap.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots/util\pgfplotscolor.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsstackedplots.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsplothandlers.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplothandler.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsmeshplotimage.code.tex))) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.scaling.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotscoordprocessing.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.errorbars.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.markers.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplotsticks.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgfplots\pgfplots.paths.code.tex) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmoduledecorations.code.tex
-\pgfdecoratedcompleteddistance=\dimen345
-\pgfdecoratedremainingdistance=\dimen346
-\pgfdecoratedinputsegmentcompleteddistance=\dimen347
-\pgfdecoratedinputsegmentremainingdistance=\dimen348
-\pgf@decorate@distancetomove=\dimen349
+\pgfdecoratedcompleteddistance=\dimen352
+\pgfdecoratedremainingdistance=\dimen353
+\pgfdecoratedinputsegmentcompleteddistance=\dimen354
+\pgfdecoratedinputsegmentremainingdistance=\dimen355
+\pgf@decorate@distancetomove=\dimen356
 \pgf@decorate@repeatstate=\count373
-\pgfdecorationsegmentamplitude=\dimen350
-\pgfdecorationsegmentlength=\dimen351
+\pgfdecorationsegmentamplitude=\dimen357
+\pgfdecorationsegmentlength=\dimen358
 )
-\tikz@lib@dec@box=\box127
+\tikz@lib@dec@box=\box129
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathmorphing.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathmorphing.code.tex)) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarydecorations.pathreplacing.code.tex (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries/decorations\pgflibrarydecorations.pathreplacing.code.tex))
 \pgfplots@numplots=\count374
-\pgfplots@xmin@reg=\dimen352
-\pgfplots@xmax@reg=\dimen353
-\pgfplots@ymin@reg=\dimen354
-\pgfplots@ymax@reg=\dimen355
-\pgfplots@zmin@reg=\dimen356
-\pgfplots@zmax@reg=\dimen357
+\pgfplots@xmin@reg=\dimen359
+\pgfplots@xmax@reg=\dimen360
+\pgfplots@ymin@reg=\dimen361
+\pgfplots@ymax@reg=\dimen362
+\pgfplots@zmin@reg=\dimen363
+\pgfplots@zmax@reg=\dimen364
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibraryplotmarks.code.tex
 File: tikzlibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplotmarks.code.tex
@@ -953,26 +970,26 @@ File: pgflibraryplotmarks.code.tex 2020/12/01 v3.1.7a (3.1.7a)
 ))) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/beamer\beamerouterthemeinfolines.sty) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2020-09-24 L3 backend support: PDF output (pdfTeX)
 \l__kernel_color_stack_int=\count375
-\l__pdf_internal_box=\box128
+\l__pdf_internal_box=\box130
 ) (d:/Master2\S1\SFLP\Expose\exemple.aux)
 \openout1 = `exemple.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
-LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1011,21 +1028,21 @@ LaTeX Font Info:    ... okay on input line 44.
 (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count376
-\scratchdimen=\dimen358
-\scratchbox=\box129
+\scratchdimen=\dimen365
+\scratchbox=\box131
 \nofMPsegments=\count377
 \nofMParguments=\count378
-\everyMPshowfont=\toks55
+\everyMPshowfont=\toks56
 \MPscratchCnt=\count379
-\MPscratchDim=\dimen359
+\MPscratchDim=\dimen366
 \MPnumerator=\count380
 \makeMPintoPDFobject=\count381
-\everyMPtoPDFconversion=\toks56
+\everyMPtoPDFconversion=\toks57
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
 )
-Package hyperref Info: Link coloring OFF on input line 44.
+Package hyperref Info: Link coloring OFF on input line 45.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -1036,59 +1053,59 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \c@section@level=\count382
 LaTeX Info: Redefining \Ref on input line 520.
 )
-LaTeX Info: Redefining \ref on input line 44.
-LaTeX Info: Redefining \pageref on input line 44.
-LaTeX Info: Redefining \nameref on input line 44.
+LaTeX Info: Redefining \ref on input line 45.
+LaTeX Info: Redefining \pageref on input line 45.
+LaTeX Info: Redefining \nameref on input line 45.
  (d:/Master2\S1\SFLP\Expose\exemple.out) (d:/Master2\S1\SFLP\Expose\exemple.out)
 \@outlinefile=\write5
 \openout5 = `exemple.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 44.
+(Font)                  OT1/lmr/m/n --> OT1/cmss/m/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 44.
+(Font)                  OT1/lmr/bx/n --> OT1/cmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 44.
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 44.
+(Font)                  OT1/cmss/b/n --> OT1/lmss/b/n on input line 45.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 44.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 44.
+(Font)                  OT1/lmss/m/n --> T1/lmr/m/n on input line 45.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 44.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 44.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 44.
+(Font)                  OT1/lmr/bx/n --> T1/lmss/b/n on input line 45.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 44.
+(Font)                  OT1/lmss/m/n --> T1/lmss/m/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 44.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 44.
+(Font)                  OT1/lmss/bx/n --> T1/lmss/m/n on input line 45.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 44.
+(Font)                  OT1/lmr/m/it --> T1/lmss/m/it on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 44.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 44.
+(Font)                  OT1/lmr/bx/it --> T1/lmss/m/it on input line 45.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 44.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 44.
+(Font)                  OT1/lmtt/m/n --> T1/lmtt/m/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 44.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 44.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 44.
+(Font)                  OT1/lmss/b/n --> T1/lmr/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 44.
+(Font)                  T1/lmss/b/n --> T1/lmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 44.
+(Font)                  T1/lmss/m/n --> T1/lmss/b/n on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 44.
+(Font)                  T1/lmss/m/it --> T1/lmss/b/it on input line 45.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 44.
+(Font)                  T1/lmtt/m/n --> T1/lmtt/b/n on input line 45.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-basic-dictionary-English.dict
 Dictionary: translator-basic-dictionary, Language: English 
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-bibliography-dictionary-English.dict
@@ -1102,78 +1119,78 @@ Dictionary: translator-numbers-dictionary, Language: English
 ) (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/translator\translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \degres on input line 44.
-LaTeX Info: Redefining \dots on input line 44.
+LaTeX Info: Redefining \degres on input line 45.
+LaTeX Info: Redefining \dots on input line 45.
 
 
 Package french.ldf Warning: Please load the "natbib" package
-(french.ldf)                BEFORE babel/french; reported on input line 44.
+(french.ldf)                BEFORE babel/french; reported on input line 45.
 
-LaTeX Info: Redefining \up on input line 44.
+LaTeX Info: Redefining \up on input line 45.
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 44.
+LaTeX Info: Redefining \selectfont on input line 45.
 \c@lstlisting=\count383
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 
 
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable tick labels; missing features). Consider writing \pgfplotsset{compat=1.17} into your preamble.
- on input line 44.
+ on input line 45.
 
 (d:/Master2\S1\SFLP\Expose\exemple.nav)
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 49.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 
 LaTeX Font Warning: Font shape `T1/lmss/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 49.
+(Font)              Font shape `T1/lmr/m/sc' tried instead on input line 50.
 
 
 LaTeX Font Warning: Font shape `T1/lmss/bx/sc' undefined
-(Font)              using `T1/lmss/bx/n' instead on input line 49.
+(Font)              using `T1/lmss/bx/n' instead on input line 50.
 
-<images/logo.png, id=39, 229.8186pt x 145.9854pt>
+<images/logo.png, id=51, 229.8186pt x 145.9854pt>
 File: images/logo.png Graphic file (type png)
 <use images/logo.png>
-Package pdftex.def Info: images/logo.png  used on input line 49.
+Package pdftex.def Info: images/logo.png  used on input line 50.
 (pdftex.def)             Requested size: 85.35826pt x 54.2209pt.
-LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 49.
+LaTeX Font Info:    Trying to load font information for OT1+lmss on input line 50.
 (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmss.fd
 File: ot1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 49.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 49.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 49.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 49.
+(Font)              <8> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 49.
+(Font)              <6> on input line 50.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 49.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 49.
+(Font)              <5> on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 49.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
  (C:\Users\abdou\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <8> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <6> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
 LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
-(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 49.
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 50.
  [1
 
 {C:/Users/abdou/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <d:/Master2/S1/SFLP/Expose/images/logo.png>] (d:/Master2\S1\SFLP\Expose\exemple.toc) [2
@@ -1182,15 +1199,190 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 
 ] [4
 
-] (d:/Master2\S1\SFLP\Expose\exemple.toc) [5
+]
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 111.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <12> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 111.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 111.
+LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <10.95> not available
+(Font)              Font shape `T1/lmss/m/sl' tried instead on input line 111.
+<images/machine.jpg, id=115, 702.625pt x 702.625pt>
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
 
-] (d:/Master2\S1\SFLP\Expose\exemple.toc) [6
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
 
-] (d:/Master2\S1\SFLP\Expose\exemple.toc) [7
+[5
 
-] (d:/Master2\S1\SFLP\Expose\exemple.toc) [8
+ <d:/Master2/S1/SFLP/Expose/images/machine.jpg>]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
 
-] (d:/Master2\S1\SFLP\Expose\exemple.toc) [9
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[6
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[7
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[8
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[9
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[10
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[11
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[12
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[13
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[14
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[15
+
+]
+File: images/machine.jpg Graphic file (type jpg)
+<use images/machine.jpg>
+Package pdftex.def Info: images/machine.jpg  used on input line 111.
+(pdftex.def)             Requested size: 194.2785pt x 194.28366pt.
+
+Overfull \vbox (6.13156pt too high) detected at line 111
+ []
+
+[16
+
+] (d:/Master2\S1\SFLP\Expose\exemple.toc) [17
+
+] [18
+
+]
+<images/logique_floue.png, id=231, 602.25pt x 301.125pt>
+File: images/logique_floue.png Graphic file (type png)
+<use images/logique_floue.png>
+Package pdftex.def Info: images/logique_floue.png  used on input line 134.
+(pdftex.def)             Requested size: 345.39966pt x 172.69513pt.
+
+Overfull \vbox (46.11946pt too high) detected at line 134
+ []
+
+[19
+
+ <d:/Master2/S1/SFLP/Expose/images/logique_floue.png>] (d:/Master2\S1\SFLP\Expose\exemple.toc) [20
+
+] [21
+
+] [22
+
+]
+<images/chaud.png, id=273, 529.98pt x 296.60812pt>
+File: images/chaud.png Graphic file (type png)
+<use images/chaud.png>
+Package pdftex.def Info: images/chaud.png  used on input line 154.
+(pdftex.def)             Requested size: 385.73384pt x 215.87221pt.
+ [23
+
+ <d:/Master2/S1/SFLP/Expose/images/chaud.png>] [24
+
+] [25
+
+] (d:/Master2\S1\SFLP\Expose\exemple.toc) [26
+
+] [27
+
+] [28
+
+] (d:/Master2\S1\SFLP\Expose\exemple.toc) [29
+
+] (d:/Master2\S1\SFLP\Expose\exemple.toc) [30
 
 ]
 \tf@nav=\write6
@@ -1204,24 +1396,24 @@ LaTeX Font Info:    Font shape `T1/lmss/m/it' in size <5> not available
 
  (d:/Master2\S1\SFLP\Expose\exemple.aux)
 Package rerunfilecheck Info: File `exemple.out' has not changed.
-(rerunfilecheck)             Checksum: 41788FE2AEEF52D7F8B6B11DB751DD09;432.
+(rerunfilecheck)             Checksum: 214C59B860B75D72601A0F0487C3BFCC;643.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36072 strings out of 479696
- 842066 string characters out of 2867114
- 1278799 words of memory out of 3000000
- 52372 multiletter control sequences out of 15000+200000
- 451817 words of font info for 58 fonts, out of 3000000 for 9000
+ 36408 strings out of 479696
+ 848611 string characters out of 2867114
+ 1286109 words of memory out of 3000000
+ 52647 multiletter control sequences out of 15000+200000
+ 467797 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 125i,15n,126p,747b,609s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb>
-Output written on d:/Master2\S1\SFLP\Expose\exemple.pdf (9 pages, 197782 bytes).
+ 125i,15n,126p,747b,819s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss10.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss12.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss17.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmss8.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsso8.pfb><C:/Users/abdou/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on d:/Master2\S1\SFLP\Expose\exemple.pdf (30 pages, 349341 bytes).
 PDF statistics:
- 196 PDF objects out of 1000 (max. 8388607)
- 25 named destinations out of 1000 (max. 500000)
- 108 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 406 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 153 words of extra memory for PDF output out of 10000 (max. 10000000)
 
