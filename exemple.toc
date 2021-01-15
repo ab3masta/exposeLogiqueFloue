@@ -1,11 +1,13 @@
 \babel@toc {english}{}
 \babel@toc {french}{}
 \beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@sectionintoc {2}{Différences entre la logique floue et logique classique}{17}{0}{2}
-\beamer@sectionintoc {3}{Le fonctionnement d’un système flou}{20}{0}{3}
-\beamer@subsectionintoc {3}{1}{La fuzzification}{22}{0}{3}
-\beamer@subsectionintoc {3}{2}{Le moteur d'inférence}{24}{0}{3}
-\beamer@subsectionintoc {3}{3}{La défuzzification}{25}{0}{3}
-\beamer@sectionintoc {4}{Les domaines d’application de la logique floue}{26}{0}{4}
-\beamer@sectionintoc {5}{Les avantages et inconvénient de la logique floue}{29}{0}{5}
-\beamer@sectionintoc {6}{Conclusion}{30}{0}{6}
+\beamer@sectionintoc {2}{Différences entre la logique floue et logique classique}{5}{0}{2}
+\beamer@sectionintoc {3}{Le fonctionnement d’un système flou}{7}{0}{3}
+\beamer@subsectionintoc {3}{1}{La fuzzification}{8}{0}{3}
+\beamer@subsectionintoc {3}{2}{Le moteur d'inférence}{11}{0}{3}
+\beamer@subsectionintoc {3}{3}{La défuzzification}{12}{0}{3}
+\beamer@sectionintoc {4}{Les domaines d’application de la logique floue}{13}{0}{4}
+\beamer@sectionintoc {5}{Les avantages et inconvénient de la logique floue}{17}{0}{5}
+\beamer@subsectionintoc {5}{1}{Les avantages}{17}{0}{5}
+\beamer@subsectionintoc {5}{2}{Les inconvénients}{18}{0}{5}
+\beamer@sectionintoc {6}{Conclusion}{19}{0}{6}
